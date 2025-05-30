@@ -442,11 +442,11 @@ input:checked+.slider:before {
 }
 
 .project-2 {
-    background-image: url('https://via.placeholder.com/350x200');
+    background-image: url(clock.png);
 }
 
 .project-3 {
-    background-image: url('https://via.placeholder.com/350x200');
+    background-image: url('stoppwatch.png');
 }
 
 .project-4 {
